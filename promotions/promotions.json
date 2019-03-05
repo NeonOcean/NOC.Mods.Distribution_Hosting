@@ -1,0 +1,18 @@
+[
+	{
+		"Identifier": "332211f8-3347-4c02-aaf2-e0f44f49392f",
+		"Games": [
+			"S4"
+		],
+		"Games Type": "Whitelist",
+		"Mods": [
+			"NeonOcean.Cycle"
+		],
+		"Mods Type": "Whitelist",
+		"Rating": "Normal",
+		"S4 Title": "NeonOcean - Showing Test Promotion",
+		"S4 Text": "This is a test promotion.",
+		"S4 Link": "https://www.google.com",
+		"S4 Link Text": "Test promotion link"
+	}
+]

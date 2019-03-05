@@ -1,0 +1,14 @@
+{
+	"NeonOcean.Main" : {
+		"Release": "1.1.0",
+		"Preview": "1.1.0"
+	},
+	"NeonOcean.Debug" : {
+		"Release": "1.1.0",
+		"Preview": "1.1.0"
+	},
+	"NeonOcean.Order" : {
+		"Release": "1.1.0",
+		"Preview": "1.1.0"
+	}
+}
