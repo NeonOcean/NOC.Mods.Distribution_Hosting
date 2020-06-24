@@ -6,6 +6,22 @@
 		],
 		"TargetsType": "Whitelist",
 		"Mods": [
+			"NeonOcean.S4.Cycle"
+		],
+		"ModsType": "Blacklist",
+		"Rating": "Normal",
+		"Link": "https://modthesims.info/d/643749/",
+		"S4Title": "NeonOcean - Cycle",
+		"S4Text": "Hey, thanks for previously downloading one of my mods. I've now released my first proper mod thats actually worth downloading!\n\n---- Cycle ----\n\nCycle adds menstruation and woohoo risk as problems your sims must deal with. Trying for babies is no longer so easy, and having a night of ecstasy with your partner is no longer so safe. Use caution to avoid unwanted rug rats or carefully track your sim's fertility in order start a family.",
+		"S4LinkButton": "Download Cycle"
+	},
+	{
+		"Identifier": "2a04043c-a5b1-4265-b88e-d26a8079ad60",
+		"Targets": [
+			"S4"
+		],
+		"TargetsType": "Whitelist",
+		"Mods": [
 			"NeonOcean.S4.Choreography",
 			"NeonOcean.S4.Cycle",
 			"NeonOcean.S4.Debug",
@@ -14,7 +30,7 @@
 		],
 		"ModsType": "Blacklist",
 		"Rating": "Normal",
-		"Link": "https://www.google.com",
+		"Link": "https://www.neonoceancreations.com/mods/s4/cycle/",
 		"S4Title": "A Message From NeonOcean",
 		"S4Text": "If your seeing this message its probably because recently downloaded my latest mod: Cycle.\n\nExcept you didn't.\n\nContrary to my instructions you only downloaded Cycle's required toolkit. I thought I said you needed to download both, but I guess I wasn't clear enough for about 40% of you.\nCome back and download the actual mod you numbskull. :)",
 		"S4LinkButton": "Download Cycle"
