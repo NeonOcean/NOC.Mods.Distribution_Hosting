@@ -1,21 +1,5 @@
 [
 	{
-		"Identifier": "eb52034f-02c0-4d05-9b7b-8dfdb57aebfc",
-		"Targets": [
-			"S4"
-		],
-		"TargetsType": "Whitelist",
-		"Mods": [
-			"NeonOcean.S4.Cycle"
-		],
-		"ModsType": "Whitelist",
-		"Rating": "Normal",
-		"Link": "https://www.patreon.com/NeonOcean",
-		"S4Title": "NeonOcean - Cycle Testing Release",
-		"S4Text": "Hey, thanks for downloading cycle! I'm so glad so many people have downloaded the mod I worked so hard to create. I'm continuing to add more features and fix every problem with the mod I can find! If your interested being more involved in the mod's development process, I've just released the first preview / testing build on my Patreon!\n\nI'm hoping to release more testing versions with new features and improvements very soon!\nPlanned Improvements:\n- Birth Control\n- Plan B\n- Abortions\n- Miscarriage\n- Better support for popular mods\n\nThanks again for checking out Cycle!\n- NeonOcean",
-		"S4LinkButton": "Check out testing release"
-	},
-	{
 		"Identifier": "2a04043c-a5b1-4265-b88e-d26a8079ad60",
 		"Targets": [
 			"S4"
@@ -30,5 +14,21 @@
 		"S4Title": "NeonOcean - Cycle",
 		"S4Text": "Hey, thanks for previously downloading one of my mods. I've now released my first proper mod thats actually worth downloading!\n\n---- Cycle ----\n\nCycle adds menstruation and woohoo risk as problems your sims must deal with. Trying for babies is no longer so easy, and having a night of ecstasy with your partner is no longer so safe. Use caution to avoid unwanted rug rats or carefully track your sim's fertility in order start a family.",
 		"S4LinkButton": "Download Cycle"
+	},
+	{
+		"Identifier": "2a4a3930-6067-43d8-9d90-b5d5716162eb",
+		"Targets": [
+			"S4"
+		],
+		"TargetsType": "Whitelist",
+		"Mods": [
+			"NeonOcean.S4.Cycle"
+		],
+		"ModsType": "Whitelist",
+		"Rating": "Normal",
+		"Link": "https://www.patreon.com/NeonOcean",
+		"S4Title": "NeonOcean - SPECIAL OFFER",
+		"S4Text": "For a limited time (until August) my first patrons will get to suggest a new feature they'd like to see in Cycle!\n\nAlong with this special offer, you also get:\n- Early access to new features\n- Behind the scenes progress updates\nAbility to vote on features (Coming soon)\n\nJoin now before the offer expires!",
+		"S4LinkButton": "Become a Patron"
 	}
 ]
