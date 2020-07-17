@@ -1,22 +1,6 @@
 [
 	{
-		"Identifier": "2a04043c-a5b1-4265-b88e-d26a8079ad60",
-		"Targets": [
-			"S4"
-		],
-		"TargetsType": "Whitelist",
-		"Mods": [
-			"NeonOcean.S4.Cycle"
-		],
-		"ModsType": "Blacklist",
-		"Rating": "Normal",
-		"Link": "https://modthesims.info/d/643749/",
-		"S4Title": "NeonOcean - Cycle",
-		"S4Text": "Hey, thanks for previously downloading one of my mods. I've now released my first proper mod thats actually worth downloading!\n\n---- Cycle ----\n\nCycle adds menstruation and woohoo risk as problems your sims must deal with. Trying for babies is no longer so easy, and having a night of ecstasy with your partner is no longer so safe. Use caution to avoid unwanted rug rats or carefully track your sim's fertility in order start a family.",
-		"S4LinkButton": "Download Cycle"
-	},
-	{
-		"Identifier": "2a4a3930-6067-43d8-9d90-b5d5716162eb",
+		"Identifier": "39f42efb-07cd-4d5d-aa8d-dcbff95a3d48",
 		"Targets": [
 			"S4"
 		],
@@ -27,8 +11,8 @@
 		"ModsType": "Whitelist",
 		"Rating": "Normal",
 		"Link": "https://www.patreon.com/NeonOcean",
-		"S4Title": "NeonOcean - SPECIAL OFFER",
-		"S4Text": "For a limited time (until August) my first patrons will get to suggest a new feature they'd like to see in Cycle!\n\nAdditional perks:\n- Early access to new features\n- Behind the scenes progress updates\nAbility to vote on features (Coming soon)\n\nJoin now before its too late!",
+		"S4Title": "NeonOcean - Pills and PMS",
+		"S4Text": "Birth control pills and PMS have now been added as features to the patron-only preview version of Cycle!\n\nJoin now to get access these new features, you'll also get the perks of a special offer for new patrons that lasts until July 31!",
 		"S4LinkButton": "Become a Patron"
 	}
 ]
