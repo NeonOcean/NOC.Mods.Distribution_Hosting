@@ -21,6 +21,7 @@
 		"Release": "1.4.2"
 	},
 	"NeonOcean.S4.Refer": {
-		"Release": "1.0.1"
+		"Release": "1.0.1",
+		"Preview": "1.1.0-alpha.1"
 	}
 }
